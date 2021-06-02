@@ -195,7 +195,7 @@ unattended-upgrades==0.1
 unicodecsv==0.14.1
 unittest-xml-reporting==2.5.1
 update==0.0.1
-urllib3==1.24.3
+urllib3==1.26.5
 usb-creator==0.3.3
 vcrpy==2.0.1
 vcrpy-unittest==0.1.7
